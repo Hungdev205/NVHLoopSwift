@@ -15,7 +15,6 @@ class ViewController: UIViewController {
     var member = ["GrandFather","GrandMother","Father","Mother","Brother","Sister"]
     var n: Int = 6
     let marigin: CGFloat = 70
-    hhhhhhhhhhh
     override func viewDidLoad() {
         super.viewDidLoad()
     }
